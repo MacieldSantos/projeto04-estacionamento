@@ -85,6 +85,10 @@ Projeto04-Estacionamento/
 4. Informe a placa e o modelo do veículo.
 5. Utilize os botões **ENTRAR**, **SAIR** e **LIMPAR** para controlar o estacionamento.
 
+## 📸 Demonstração
+
+https://macieldsantos.github.io/projeto04-estacionamento/
+
 ## 🚘 Regras do Estacionamento
 
 O estacionamento possui **10 vagas**.
